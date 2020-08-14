@@ -1,4 +1,11 @@
-### Hi there 👋
+_———— 如果思想可以接驳，世界将会怎样 ————_  
+联手拒绝低人文水平的内耗，拥抱“自以为非”、终身学习。
+- 专业：OOAD/UML，Python/Tensorflow/爬虫，JS/Taro微信小程序/React/ES6，Java/Android/NDK/SpringMVC/Activiti工作流，Linux/Docker/GitLab，C/C++/C#
+- 效率：PKM，MindMap，PhotoReading，GTD/番茄/整理术，刻意/交错练习，零秒思考
+- 健康：囚徒健身，坐禅冥想
+- 财富：现金流游戏
+
+@[简书主页](https://www.jianshu.com/u/e67c79703fd5) @[CodeProject](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=1203138) 
 
 <!--
 **tiancheng2000/tiancheng2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
