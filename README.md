@@ -1,5 +1,5 @@
 _———— 如果思想可以接驳，世界将会怎样 ————_  
-联手拒绝低人文水平的内耗，拥抱“自以为非”、终身学习。
+拒绝低人文水平的内耗，拥抱“自以为非”、终身学习。
 - 专业：OOAD/UML，Python/Tensorflow/爬虫，JS/Taro微信小程序/React/ES6，Java/Android/NDK/SpringMVC/Activiti工作流，Linux/Docker/GitLab，C/C++/C#
 - 效率：PKM，MindMap，PhotoReading，GTD/番茄/整理术，刻意/交错练习，零秒思考
 - 健康：囚徒健身，坐禅冥想
